@@ -1,7 +1,7 @@
 name: paulogan
 favicon: null
-layout_spectrum: 0.9431930996943265
-typography_spectrum: 0.18444246170111
+layout_spectrum: 1
+typography_spectrum: 0.95729
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.40689229499548674
-  lightness: 0.16828784346580505
-  saturation: 0.9829074735753238
-  rhythmicContrast: 0.48538100090809166
+    - '#ffffff'
+    - '#747776'
+    - '#8f8c8c'
+    - '#bdbbbb'
+    - '#a8a6a6'
+  brandStrength: 0.875
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
