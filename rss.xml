@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[paulogan]]></title>
         <description><![CDATA[paulogan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paulogan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 17:30:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 17:31:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paulogan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My new post]]></title>
+            <description><![CDATA[<h1>My new post</h1>]]></description>
+            <link>https://thegrid.ai/paulogan/my-new-post/index.html</link>
+            <guid isPermaLink="false">d3243f73-29a0-48c8-b633-18b0da1916fe</guid>
+            <pubDate>Wed, 09 Dec 2015 17:31:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>New post</p>]]></description>
-            <link>undefined5db187c9-1986-4895-91b0-790b337342b6/index.html</link>
+            <link>https://thegrid.ai/paulogan/5db187c9-1986-4895-91b0-790b337342b6/index.html</link>
             <guid isPermaLink="false">5db187c9-1986-4895-91b0-790b337342b6</guid>
             <pubDate>Wed, 09 Dec 2015 17:30:06 GMT</pubDate>
         </item>
